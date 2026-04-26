@@ -18,7 +18,7 @@ const teamMembers = [
     },
     {
         name: "Omkar Salunkhe",
-        role: "Frontend Developer",
+        role: "Backend Developer",
         image: omkar,
         email: "omkarsalunkhe1201@gmail.com",
         linkedin: "https://www.linkedin.com/in/omkar-salunkhe-28784b214",
@@ -26,7 +26,7 @@ const teamMembers = [
     },
     {
         name: "Bhairavnath Bhuse",
-        role: "Backend Developer",
+        role: "ML Engineer",
         image: bhairavnath,
         email: "bhairavnathbhuse@gmail.com",
         linkedin: "https://www.linkedin.com/in/bhairavnath-bhuse-740266231/",
